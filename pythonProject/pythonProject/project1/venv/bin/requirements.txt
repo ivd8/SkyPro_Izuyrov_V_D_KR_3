@@ -1,0 +1,16 @@
+Activate.ps1
+activate
+activate.csh
+activate.fish
+django-admin
+normalizer
+pip
+pip3
+pip3.10
+pip3.11
+python
+python3
+python3.11
+requirements.txt
+requirements2.txt
+sqlformat
